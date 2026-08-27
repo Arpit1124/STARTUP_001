@@ -1,0 +1,6 @@
+{
+  "name": "StartupForge AI",
+  "description": "Turn an idea into a fully-formed startup in minutes with market research, financial planning, MVP scoping, pitch decks, and a live landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
